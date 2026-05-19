@@ -1,0 +1,16 @@
+{
+  "name": "the-honest-agent",
+  "version": "3.0.0",
+  "description": "A full e-commerce shopping platform enhanced by an honest AI buying assistant.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}

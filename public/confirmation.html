@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order Confirmed - The Honest Agent</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css?v=honest-agent-84" />
+  </head>
+  <body class="confirmation-page">
+    <main class="confirmation-card">
+      <div class="confirm-icon">✓</div>
+      <h1>Order confirmed</h1>
+      <p id="summary"></p>
+      <a href="/">Continue shopping</a>
+    </main>
+    <script>
+      const params = new URLSearchParams(location.search);
+      const product = params.get("product") || "Your product";
+      const price = Number(params.get("price") || 0).toLocaleString("en-IN");
+      document.getElementById("summary").textContent = `${product}${price !== "0" ? ` at ₹${price}` : ""} has been placed successfully.`;
+    </script>
+  </body>
+</html>
