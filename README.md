@@ -112,10 +112,13 @@ the-honest-agent/
 
 ---
 
-## Note
-Product thinking, feature design, UX, conversation flow, all documentation and demo script. Defined the core "advocate not salesperson" philosophy.
-Engineering, server architecture, AI integration, frontend state management, full-stack implementation of all features.
-Feature ideation, demo preparation, and testing.
+## My Contribution
+
+I took ownership of both product development and implementation for this project. I defined the core "buyer’s advocate, not salesperson" philosophy, designed the feature workflows and conversation experience, and worked across the full-stack application.
+
+I used AI-assisted development tools to accelerate implementation, including the frontend UI, while also working on the backend integration, application logic, Gemini-powered workflows, and overall product behaviour.
+
+I was responsible for bringing the idea together into a functional prototype, along with its documentation, demo preparation, and testing.
 
 ---
 
