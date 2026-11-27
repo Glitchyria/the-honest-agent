@@ -484,3 +484,4 @@ function altName(p) {
 function escapeHtml(text = "") {
   return String(text).replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
 }
+
