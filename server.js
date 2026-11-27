@@ -325,6 +325,7 @@ USER MESSAGE: ${message}`;
   stream(res, payload);
 });
 
+
 app.post("/api/wardrobe-check", async (req, res) => {
   const { product_id, wardrobe_description = "" } = req.body || {};
   const product = productById(product_id);
