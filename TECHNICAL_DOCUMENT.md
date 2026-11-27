@@ -194,4 +194,3 @@ Frontend checks for null product before rendering detail page and redirects to l
 
 ---
 
-*Document prepared — Ria Agrawal and Nishan Kashyap 
