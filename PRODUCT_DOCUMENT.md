@@ -1,10 +1,6 @@
 # Product Document — The Honest Agent
-**Team Niraya** | Ria Agrawal · Nishan Kashyap
-**Hackathon Track:** AI Shopping Agent (Track 1)
-
 ---
-
-## 1. The Problem We Are Solving
+## 1. The Problem Thats Been Solved
 
 Online shopping in India is broken in one specific way: **trust**.
 
@@ -112,4 +108,4 @@ Quick-reply chips make onboarding smooth but limit expressiveness. We resolved t
 
 ---
 
-*Document prepared by Team Niraya — Ria Agrawal (Product & UX) and Nishan Kashyap (Engineering)*
+*Document prepared by Team Niraya — Ria Agrawal and Nishan Kashyap
