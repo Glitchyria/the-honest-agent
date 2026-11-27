@@ -1,5 +1,5 @@
 # Decision Log — The Honest Agent
-**Team Niraya** | Running log of key build decisions
+Running log of key build decisions
 
 ---
 
@@ -73,4 +73,4 @@
 
 ---
 
-*Last updated: May 2026 | Team Niraya*
+*Last updated: Sept 2026 
