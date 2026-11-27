@@ -112,12 +112,10 @@ the-honest-agent/
 
 ---
 
-## Contribution Note
-**Ria Agrawal** — Product thinking, feature design, UX, conversation flow, all documentation and demo script. Defined the core "advocate not salesperson" philosophy.
-
-**Nishan Kashyap** — Engineering, server architecture, AI integration, frontend state management, full-stack implementation of all features.
-
-Both contributed jointly to feature ideation, demo preparation, and testing.
+## Note
+Product thinking, feature design, UX, conversation flow, all documentation and demo script. Defined the core "advocate not salesperson" philosophy.
+Engineering, server architecture, AI integration, frontend state management, full-stack implementation of all features.
+Feature ideation, demo preparation, and testing.
 
 ---
 
