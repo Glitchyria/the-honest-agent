@@ -194,4 +194,4 @@ Frontend checks for null product before rendering detail page and redirects to l
 
 ---
 
-*Document prepared by Team Niraya — Ria Agrawal (Product & UX) and Nishan Kashyap (Engineering)*
+*Document prepared — Ria Agrawal and Nishan Kashyap 
