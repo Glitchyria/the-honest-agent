@@ -18,7 +18,7 @@ Existing AI shopping tools make this worse, not better. They are glorified searc
 
 ---
 
-## 2. Who We Built This For
+## 2. Who I Built This For
 
 **Primary user:** An Indian online shopper aged 18–35 who:
 - Shops on mobile, often in Hinglish
@@ -32,7 +32,7 @@ Existing AI shopping tools make this worse, not better. They are glorified searc
 
 ---
 
-## 3. What We Built
+## 3. What I Built
 
 **The Honest Agent** is an AI shopping agent that acts as the buyer's advocate, not the store's salesperson. It replaces the browse → filter → compare → regret loop with a single honest conversation.
 
@@ -107,5 +107,3 @@ We built 6 features. During demo prep, we realized showing all 6 in 5 minutes is
 Quick-reply chips make onboarding smooth but limit expressiveness. We resolved this with an "Other — type your own" chip that reveals the text input. Best of both worlds.
 
 ---
-
-*Document prepared by Team Niraya — Ria Agrawal and Nishan Kashyap
