@@ -1,6 +1,6 @@
 # Honest Agent
 
-### An AI Shopping Agent That Acts as Your Buyer's Advocate
+### An AI Shopping Agent That Acts as Your Buyer's Advocate, Not the Seller's Salesperson
 
 Honest Agent helps users make smarter purchasing decisions through transparent product analysis, review-risk assessment, budget awareness and responsible recommendations.
 
