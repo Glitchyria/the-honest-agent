@@ -2,7 +2,7 @@
 
 ## DEMO 1 — Wired Earphones
 
-Type: `Looking for wired earphones under ₹2000 for daily commute`
+Type:`Looking for wired earphones under ₹2000 for daily commute`
 
 Expected flow:
 - Shows only wired options.
