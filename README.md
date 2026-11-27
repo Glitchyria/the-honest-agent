@@ -1,9 +1,6 @@
 # ✦ The Honest Agent
 ### AI Shopping Agent that sells through radical transparency
 
-**Team Niraya** — Ria Agrawal & Nishan Kashyap  
-**Hackathon:** Kasparro AI Shopping Agent Track (Track 1)
-
 ---
 
 ## The Problem
