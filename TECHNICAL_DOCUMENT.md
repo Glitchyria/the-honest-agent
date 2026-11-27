@@ -1,5 +1,4 @@
 # Technical Document — The Honest Agent
-**Team Niraya** | Ria Agrawal · Nishan Kashyap
 
 ---
 
